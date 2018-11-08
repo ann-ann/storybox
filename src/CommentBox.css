@@ -1,0 +1,24 @@
+.row {
+  background-color: #6ba2aa;
+  overflow: hidden;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.cell {
+  color: #000;
+  font-family: "Open Sans", Helevetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.comment-count {
+    color: #9ecbd2;
+    margin-bottom: 20px;
+}
+
+.comment-list {
+    margin-top: 40px;
+}
